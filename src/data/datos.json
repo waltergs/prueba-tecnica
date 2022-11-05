@@ -1,0 +1,59 @@
+[
+    {   
+        "id" : 1,
+        "nombres" : "Eduardo",
+        "apellidos" : "Galeano",
+        "tipo_doc" : "1",
+        "num_doc" : "1054234567"
+    },
+    {   
+        "id" : 2,
+        "nombres" : "María",
+        "apellidos" : "Reyes",
+        "tipo_doc" : "2",
+        "num_doc" : "30345678"
+    },
+    {   
+        "id" : 3,
+        "nombres" : "Sandra",
+        "apellidos" : "Gaitan",
+        "tipo_doc" : "1",
+        "num_doc" : "24567890"
+    },
+    {   
+        "id" : 4,
+        "nombres" : "Walter",
+        "apellidos" : "Garcia",
+        "tipo_doc" : "1",
+        "num_doc" : "4439413"
+    },
+    {   
+        "id" : 5,
+        "nombres" : "Rosa",
+        "apellidos" : "Galindo",
+        "tipo_doc" : "2",
+        "num_doc" : "45678901"
+    },
+    {   
+        "id" : 6,
+        "nombres" : "Juan",
+        "apellidos" : "Rivas",
+        "tipo_doc" : "2",
+        "num_doc" : "10145678"
+    },
+    {   
+        "id" : 7,
+        "nombres" : "Carlos",
+        "apellidos" : "Betancur",
+        "tipo_doc" : "1",
+        "num_doc" : "1053678906"
+    },
+    {   
+        "id" : 8,
+        "nombres" : "Diana",
+        "apellidos" : "Gonzales",
+        "tipo_doc" : "2",
+        "num_doc" : "36789065"
+    }
+]
+
